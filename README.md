@@ -22,7 +22,7 @@
 
 ## 🎯 Project Purpose & Vision
 
-This repository is not just a passive portfolio; it serves as a living proof of concept for the engineering principles I apply to my **Machine Learning** integrations and **Scalable Automation** systems. The architecture is deliberately designed to deliver maximum performance, speed, and a minimalist aesthetic while showcasing data-driven projects.
+This repository contains the source code for my personal space on the web. The architecture is deliberately kept minimal and highly performant, serving as a clean, fast foundation to host my technical writing and showcase my upcoming projects in machine learning and scalable automation.
 
 ### Why this architecture?
 - **High Performance & SEO:** Leveraging Next.js ensures that static and dynamic content loads in milliseconds, providing an optimized experience for search engines and technical reviews.
