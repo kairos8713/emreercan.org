@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "blog": "Blog",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "greeting": "Merhaba, ben Emre",
+    "tagline": "Yapıcı. Otomasyon sistemleri, ML deneyleri, içerik hatları.",
+    "cta": "Projelerimi gör",
+    "available": "Yeni projeler için müsaitim"
+  },
+  "about": {
+    "title": "Hakkımda",
+    "body": "Polonya'da Bilgisayar Bilimleri öğrencisiyim. Büyük ölçekli otomasyon sistemleri geliştiriyorum — YouTube kanalları, Instagram hatları, evrimsel ML. Öğrendiklerimi yazıyorum."
+  },
+  "projects": {
+    "title": "Projeler",
+    "github": "GitHub",
+    "live": "Canlı"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Geliştirme, öğrenme ve yayına alma üzerine notlar.",
+    "readMore": "Devamını oku",
+    "allPosts": "Tüm yazılar",
+    "filterByTag": "Etikete göre filtrele",
+    "all": "Tümü"
+  },
+  "contact": {
+    "title": "İletişim",
+    "headline": "Birlikte çalışalım.",
+    "body": "Freelance projeler, iş birlikleri ve ilginç konuşmalar için açığım.",
+    "email": "E-posta gönder",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "footer": {
+    "copyright": "© {year} Emre Ercan"
+  }
+}

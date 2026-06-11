@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Home",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm Emre",
+    "tagline": "Builder. Automation systems, ML experiments, content pipelines.",
+    "cta": "See my work",
+    "available": "Available for work"
+  },
+  "about": {
+    "title": "About",
+    "body": "CS student in Poland. I build automation systems at scale — YouTube channels, Instagram pipelines, evolutionary ML. I write about what I learn."
+  },
+  "projects": {
+    "title": "Projects",
+    "github": "GitHub",
+    "live": "Live"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Notes on building, learning, and shipping.",
+    "readMore": "Read more",
+    "allPosts": "All posts",
+    "filterByTag": "Filter by tag",
+    "all": "All"
+  },
+  "contact": {
+    "title": "Get in touch",
+    "headline": "Let's work together.",
+    "body": "Open to freelance projects, collaborations, and interesting conversations.",
+    "email": "Email me",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "footer": {
+    "copyright": "© {year} Emre Ercan"
+  }
+}
