@@ -4,6 +4,7 @@ import { getMessages, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
+import { SpeedInsights } from '@vercel/speed-insights/next'
 
 const locales = ['en', 'tr'];
 
@@ -38,6 +39,7 @@ export default async function LocaleLayout({ children, params }: LocaleLayoutPro
       <Navbar />
       <main className="min-h-screen">{children}</main>
       <Footer />
+      <SpeedInsights />
     </NextIntlClientProvider>
   );
 }
