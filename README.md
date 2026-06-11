@@ -12,11 +12,6 @@
   <a href="https://emreercan.org" target="_blank"><b>Live Demo ↗</b></a>
 
   <br><br>
-  
-  <a href="https://emreercan.org/tr/blog/site-mimarisi" target="_blank">
-    <img src="https://img.shields.io/badge/🇹🇷_Türkçe_İçin-Blog_Yazısına_Git-111111?style=flat-square" alt="Türkçe Versiyon" />
-  </a>
-</div>
 
 <hr>
 
